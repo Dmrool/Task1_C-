@@ -1,0 +1,7 @@
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/Task1.dir
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/shelly/Desktop/6 semestr/С++/Task1/build/MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
